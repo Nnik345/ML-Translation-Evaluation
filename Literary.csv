@@ -1,0 +1,7 @@
+Language,MT_System,BLEU,METEOR,COMET,COMET_QE,Num_Samples
+Hindi,ChatGPT 5.2,9.09,0.3588,0.7666,-0.076,6
+Marathi,BhashaVerse,1.23,0.1033,0.6157,-0.198,9
+Marathi,ChatGPT 5.2,5.17,0.1762,0.6875,-0.0272,9
+Odia,ChatGPT 5.2,6.96,0.323,0.7656,-0.0569,6
+Tamil,BhashaVerse,3.42,0.1746,0.5999,-0.4121,13
+Tamil,ChatGPT 5.2,4.51,0.237,0.6794,-0.3368,13
